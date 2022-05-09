@@ -46,7 +46,7 @@ Beyond these key components, you may want to buy some protoboards, breadboards, 
 To keep things as simple as possible, off the shelf modules have been used.
 NOTE: The resitors on the RX/TX pins are recommended but optional.
 
-![image](images/circuit.jpg)
+![image](images/circuit.png)
 ![image](images/disassembled.jpg)
 ![image](images/wiring.jpg)
 ![image](images/board.jpg)
