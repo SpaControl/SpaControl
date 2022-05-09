@@ -29,13 +29,24 @@ Perhaps in the future we will offer a custom-built solution, but for now you're 
 
 | Component | Store links | Comments |
 |-----------|-------------|----------|
-| ESP32     | [AliExpress](https://www.aliexpress.com/item/1005001929935550.html?spm=a2g0o.order_list.0.0.74be1802hFqod2) | Get 1 already-wielded ESP32 |
-| RJ45 connector | [AliExpress](https://www.aliexpress.com/item/1005003717285471.html?spm=a2g0o.order_list.0.0.74be1802hFqod2) | Get a 'H Type+DIP Pins' |
-| Buck converter | [AliExpress](https://www.aliexpress.com/item/1005002603013499.html?spm=a2g0o.order_list.0.0.74be1802hFqod2) | Get a '5-40V to 3.3V' converter |
-| 330K Resistor | [AliExpress](https://www.aliexpress.com/item/32952657927.html?spm=a2g0o.order_list.0.0.74be1802hFqod2) | You need two 330K ohm resistors |
+| ESP32     | [AliExpress](https://www.aliexpress.com/item/1005001929935550.html?spm=a2g0o.order_list.0.0.74be1802hFqod2) | Get 1 already-wielded ESP32. |
+| RJ45 connector | [AliExpress](https://www.aliexpress.com/item/1005003717285471.html?spm=a2g0o.order_list.0.0.74be1802hFqod2) | Get a 'H Type+DIP Pins'. |
+| Buck converter | [AliExpress](https://www.aliexpress.com/item/1005002603013499.html?spm=a2g0o.order_list.0.0.74be1802hFqod2) | Get a '5-40V to 3.3V' converter. |
+| 330K Resistor | [AliExpress](https://www.aliexpress.com/item/32952657927.html?spm=a2g0o.order_list.0.0.74be1802hFqod2) | You need two 330K ohm resistors. |
 
 Beyond these key components, you may want to buy some protoboards, breadboards, pin headers, cables, etc to build your device. Some useful links include:
 
 | Component | Store links | Comments |
 |-----------|-------------|----------|
 | Pin Headers | [AliExpress](https://www.aliexpress.com/item/32724478308.html?spm=a2g0o.order_list.0.0.74be1802hFqod2) | |
+| Perfboard | [AliExpress](https://www.aliexpress.com/item/1005003422520490.html?spm=a2g0o.order_list.0.0.74be1802hFqod2) | If you want to solder your hardware together. |
+
+### Assembly Images
+
+To keep things as simple as possible, off the shelf modules have been used.
+NOTE: The resitors on the RX/TX pins are recommended but optional.
+
+![image](images/circuit.jpg)
+![image](images/disassembled.jpg)
+![image](images/wiring.jpg)
+![image](images/board.jpg)
