@@ -6,12 +6,12 @@ This directory contains any general-purpose documentation related to the way in 
 
 On spa pools containing SV and SV Mini controllers, there exists a port labeled `EXP1` or `EXPAND1` port. This is a standard RJ-45 plug, with the following output coming from the controller on each of the pins:
 
-| Pin | Controller | Wifi Adapter        |
+| Pin | Controller | WiFly Adapter       |
 |-----|------------|---------------------|
-| 1   | 12V        | 12V                 |
-| 2   | GND        | GND                 |
-| 3   |            |                     |
-| 4   |            |                     |
+| 1   | Health Led | Pass through        |
+| 2   | GND        | Pass through        |
+| 3   | Not used   |                     |
+| 4   | Not used   |                     |
 | 5   | TX         | RX (PIN45 on wifly) |
 | 6   | RX         | TX (PIN46 on wifly) |
 | 7   | GND        | GND                 |
